@@ -25,4 +25,4 @@
 *   ارائه ویژگی‌های جدید و مورد نیاز کاربران
 
    Policies Privacy
-Smart Rabbit Copywrite © 2022
+Smart Rabbit CopyRight © 2022
