@@ -26,3 +26,34 @@
 
    Policies Privacy
 Smart Rabbit CopyRight © 2022
+
+------------------------------------------------------------------ English Version ------------------------------------------------------------------------
+
+
+### 🗄 Respecting the privacy of users
+
+User privacy is very important to us. In this section, how to store and
+Our use of information that is recorded as a result of users using our services in our application is described:
+
+### 📚Information that is collected:
+
+* The information you register in the program is only stored in your phone
+* The information stored as a result of your use of the commenting service is done with your permission
+
+### 🔐 security and disclosure of information
+
+Our main priority is to protect user account information and prevent unauthorized access to this information.
+
+### 👓 Use of information
+
+The information stored in the application is used in the following cases and the user's use of the application
+  It means accepting and giving us permission to use and exploit the aforementioned information as follows:
+
+* Providing, maintaining and improving the quality of services
+* Providing new programs according to user needs
+* Faster follow-up and fewer problems in using the program
+* Providing new features required by users
+  
+
+  Policies Privacy
+Smart Rabbit CopyRight © 2022
